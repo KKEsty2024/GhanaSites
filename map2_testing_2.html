@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Map with Custom Markers</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin: 0; padding: 0; }
+        #map { position: absolute; top: 50px; bottom: 0; width: 100%; }
+        #controls {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: white;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+            z-index: 1;
+        }
+        .custom-marker, .placeholder-marker {
+            width: 15px; /* Set width for all markers */
+            height: 15px; /* Set height for all markers */
+            cursor: pointer;
+            background-size: cover; /* Ensure the image covers the div */
+            background-repeat: no-repeat; /* Prevent image repeat */
+        }
+        .combined-marker {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .combined-marker .icon {
+            width: 15px;
+            height: 15px;
+            margin: 2px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="controls">
+    <button id="show-installed-trackers">Installed Sites with Trackers</button>
+    <button id="show-installed-only">Installed Sites Without Trackers</button>
+    <button id="show-not-installed">Potential Sites</button>
+    <button id="show-all">All Sites</button>
+</div>
+
+<div id="map"></div>
+
+<script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZGFuaWVsLWZpbmRydHJhY2tpbmciLCJhIjoiY20yNG52NnA3MGVmbjJqcXV1Z2FtczhubiJ9.y26OUUxKLe2ZP4YUAw1a8Q'; // Replace with your Mapbox token
+
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/streets-v11',
+        center: [-0.2115747, 5.5663486], // Adjust as needed
+        zoom: 6
+    });
+
+    map.addControl(new mapboxgl.NavigationControl());
+
+    let markers = []; // Array to hold marker references
+
+    // Fetch the transformed data
+    fetch('transformed_checkers_sites.json')
+    .then(response => response.json())
+    .then(data => {
+        console.log(data); // Check if data is being fetched correctly
+        data.forEach(function(site) {
+            // Convert latitude and longitude to float
+            const lat = parseFloat(site.lat);
+            const lon = parseFloat(site.lon);
+            console.log(`Lat: ${lat}, Lon: ${lon}`); // Log lat/lon values
+
+            // Check for valid coordinates before adding markers
+            if (!isNaN(lat) && !isNaN(lon)) {
+                var el = document.createElement('div');
+
+                // Handle the icons display logic
+                if (site.icons && site.icons.length > 1) {
+                    el.className = 'combined-marker';
+                    el.innerHTML = `
+                        <img src="${site.icons[0]}" class="icon" alt="Findr Icon">
+                        <img src="${site.icons[1]}" class="icon" alt="Cell Tower Icon">
+                    `;
+                } else if (site.icons && site.icons.length === 1) {
+                    el.className = 'custom-marker';
+                    el.style.backgroundImage = `url(${site.icons[0]})`; // Use the first icon
+                    el.style.backgroundSize = "cover"; // Ensure the image covers the div
+                } else {
+                    // Use the placeholder image for sites with no icons
+                    el.className = 'placeholder-marker'; // Class for placeholder markers
+                    el.style.backgroundImage = "url('https://raw.githubusercontent.com/KKEsty2024/GhanaSites/05d033c0abef607598c785e84d4cef52414bbaee/location_pin.jpg')"; // Use the direct link
+                    el.style.backgroundSize = "cover"; // Ensure the image covers the div
+                }
+
+                // Create a hover popup
+                const hoverPopup = new mapboxgl.Popup({ closeButton: false, closeOnClick: false })
+                    .setHTML(`
+                        <h3>${site.name}</h3>
+                        <p>ID: ${site.id}</p>
+                        ${site.imei ? `<p>IMEI: ${site.imei}</p>` : '<p>IMEI: Not available</p>'}
+                    `);
+
+                // Add hover functionality
+                el.addEventListener('mouseenter', () => {
+                    hoverPopup.setLngLat([lon, lat]).addTo(map);
+                });
+
+                el.addEventListener('mouseleave', () => {
+                    hoverPopup.remove();
+                });
+
+                // Add marker to the map and store reference
+                const marker = new mapboxgl.Marker(el)
+                    .setLngLat([lon, lat]) // Use parsed values
+                    .setPopup(new mapboxgl.Popup({ offset: 25 })
+                        .setHTML(`
+                            <h3>${site.name}</h3>
+                            <p>ID: ${site.id}</p>
+                            ${site.imei ? `<p>IMEI: ${site.imei}</p>` : '<p>IMEI: Not available</p>'}
+                        `))
+                    .addTo(map);
+
+                markers.push({ marker, site }); // Store the marker and its associated site
+            } else {
+                console.warn(`Invalid coordinates for site: ${site.name} - Lat: ${lat}, Lon: ${lon}`);
+            }
+        });
+    })
+    .catch(error => console.error('Error loading JSON data:', error));
+
+    // Filtering functionality
+    document.getElementById('show-installed-trackers').onclick = function() {
+        markers.forEach(({ marker, site }) => {
+            if (site.imei && site.icons) { // Both IMEI and icons should exist
+                marker.addTo(map);
+            } else {
+                marker.remove();
+            }
+        });
+    };
+
+    document.getElementById('show-installed-only').onclick = function() {
+        markers.forEach(({ marker, site }) => {
+            if (!site.imei && site.icons) { // Check if there is no IMEI and icons are present
+                marker.addTo(map);
+            } else {
+                marker.remove();
+            }
+        });
+    };
+
+    document.getElementById('show-not-installed').onclick = function() {
+        markers.forEach(({ marker, site }) => {
+            if (!site.imei && !site.icons) { // Check if both IMEI and icons are null
+                marker.addTo(map);
+            } else {
+                marker.remove();
+            }
+        });
+    };
+
+    document.getElementById('show-all').onclick = function() {
+        markers.forEach(({ marker }) => {
+            marker.addTo(map);
+        });
+    };
+
+</script>
+
+</body>
+</html>
