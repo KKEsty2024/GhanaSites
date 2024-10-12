@@ -8,17 +8,48 @@
     <link href='https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css' rel='stylesheet' />
     <style>
         body { margin: 0; padding: 0; }
-        #map { position: absolute; top: 50px; bottom: 0; width: 100%; }
+        #map { position: absolute; top: 40px; bottom: 0; width: 100%; }
         #controls {
             position: absolute;
-            top: 10px;
+            top: 50px;
             left: 10px;
             background: white;
             padding: 10px;
             border-radius: 5px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
             z-index: 1;
+            width: auto; /* Change to auto to fit the buttons */
+            max-width: 200px; /* Optional: Set a max width */
         }
+        #controls button {
+    margin: 5px 0; /* Adds vertical spacing between buttons */
+    font-size: 14px; /* Adjusts the font size */
+    font-weight: bold; /* Makes the text bold */
+    padding: 5px 10px; /* Adds padding for a better button appearance */
+    cursor: pointer; /* Changes the cursor to pointer on hover */
+    border: none; /* Removes border for a cleaner look */
+    background-color: #ff4800; /* Button background color */
+    color: white; /* Button text color */
+    border-radius: 3px; /* Rounds the corners */
+    transition: background-color 0.3s; /* Smooth transition for background color */
+}
+
+#controls button:hover {
+    background-color: #5400b3; /* Changes color on hover */
+}
+
+.mapboxgl-popup {
+    font-size: 16px; /* Adjust this value for the desired font size */
+}
+
+.mapboxgl-popup h3 {
+    font-size: 18px; /* Make the site name larger */
+    font-weight: bold; /* Ensure the site name is bold */
+}
+
+.mapboxgl-popup p {
+    font-size: 16px; /* Adjust the size of the IMEI or other text */
+}
         .custom-marker, .placeholder-marker {
             width: 15px; /* Set width for all markers */
             height: 15px; /* Set height for all markers */
