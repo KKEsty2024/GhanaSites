@@ -7,17 +7,17 @@ fs.readFile('checker.json', 'utf8', (err, data) => {
     // Parse the JSON data
     const originalData = JSON.parse(data);
 
-    // Transform the data based on the "Check" field values
+    // Transform the data based on the "Tracker" field values
     const transformedData = originalData.Sheet1.map(site => {
         let icons = [];
         
-        // Determine icons and other details based on the "Check" field
-        if (site.Check === "Installed_and_Tracker") {
-            // Add both icons (Findr logo and cell tower) for "Installed_and_Tracker"
+        // Determine icons and other details based on the "Tracker" field
+        if (site.Tracker === "Yes") {
+            // Add both icons (Findr logo and cell tower) for "Tracker: Yes"
             icons.push("https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png"); // Placeholder for Findr icon URL
             icons.push("https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"); // Placeholder for Cell tower icon URL
-        } else if (site.Check === "Installed_Only") {
-            // Add only the cell tower icon for "Installed_Only"
+        } else if (site.Tracker === "No") {
+            // Add only the cell tower icon for "Tracker: No"
             icons.push("https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"); // Placeholder for Cell tower icon URL
         }
 
@@ -26,15 +26,16 @@ fs.readFile('checker.json', 'utf8', (err, data) => {
             lat: site.Latitude,
             lon: site.Longitude,
             name: site["Site Name"],
-            id:   site["Site ID Number"],
-            imei: site["Ghana Sites.Tracker IMEI"] !== 0 ? site["Ghana Sites.Tracker IMEI"] : null, // Show IMEI if available
-            icons: icons.length > 0 ? icons : null // Include icons only if present
+            id: site["Site Number"],
+            trackerIMEI: site["Tracker IMEI"] || null, // Show IMEI if available
+            icons: icons.length > 0 ? icons : null,    // Include icons only if present
+            batteryStatus: site.BatteryNotDelivered    // Include battery delivery status
         };
     });
 
     // Write the transformed data to a new JSON file
-    fs.writeFile('transformed_checkers_sites.json', JSON.stringify(transformedData, null, 2), (err) => {
+    fs.writeFile('transformed_Unique.json', JSON.stringify(transformedData, null, 2), (err) => {
         if (err) throw err;
-        console.log('Transformed JSON saved as transformed_checkers_sites.json');
+        console.log('Transformed JSON saved as transformed_GhanaSites.json');
     });
 });

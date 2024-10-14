@@ -1,0 +1,3167 @@
+[
+  {
+    "lat": 5.4201267,
+    "lon": -2.1351667,
+    "name": "PRESTIA",
+    "id": 600591,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.69216166666667,
+    "lon": -0.266136666666667,
+    "name": "POKUASI",
+    "id": 600036,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5392617,
+    "lon": -0.3072767,
+    "name": "MCARTHY2",
+    "id": 600072,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.3038014,
+    "lon": -1.9939124,
+    "name": "TARKWA4",
+    "id": 601240,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6245033,
+    "lon": -0.30273,
+    "name": "ABLEKUMA",
+    "id": 600082,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.70663833333333,
+    "lon": -0.239438333333333,
+    "name": "ASHONGMAN1",
+    "id": 600088,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.1592282,
+    "lon": -2.0746323,
+    "name": "DOMPIM",
+    "id": 601248,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.2148598,
+    "lon": -2.0248546,
+    "name": "WASSAAGONA",
+    "id": 601244,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "DOME",
+    "id": 600140,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5695408,
+    "lon": -0.2036918,
+    "name": "ASYLUMDOWN",
+    "id": 600151,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 4.905165,
+    "lon": -1.7961664,
+    "name": "APOLLO",
+    "id": 600658,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.69335483417508,
+    "lon": -0.285071676243789,
+    "name": "POKUASI2",
+    "id": 600182,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.13830543,
+    "lon": -1.66861335,
+    "name": "DABOASE",
+    "id": 601199,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 4.89221156,
+    "lon": -1.75597867,
+    "name": "TAKORADI2",
+    "id": 600655,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.8262,
+    "lon": -1.00029,
+    "name": "ACHIASE2",
+    "id": 601277,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.84322666666667,
+    "lon": -0.996833333333333,
+    "name": "ACHIASE",
+    "id": 600542,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.944625,
+    "lon": -0.828033333333333,
+    "name": "ATIANKAMA",
+    "id": 601311,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.8582049,
+    "lon": -0.6634516,
+    "name": "ASAMANKESE2",
+    "id": 601149,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.86583,
+    "lon": -0.6736333,
+    "name": "ASAMANKESE3",
+    "id": 601282,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.2908819,
+    "lon": 0.3239122,
+    "name": "KWAMIKROM",
+    "id": 601171,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.14620880782604,
+    "lon": 0.476699201390147,
+    "name": "HOHOE",
+    "id": 600563,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.707755,
+    "lon": -0.045935,
+    "name": "ASHAIMAN1",
+    "id": 600376,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.374135,
+    "lon": -0.5464317,
+    "name": "ANYINAM",
+    "id": 600678,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7008628,
+    "lon": -0.0548493,
+    "name": "ASHAIMAN3",
+    "id": 600414,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7376978,
+    "lon": -0.0200821,
+    "name": "KAKASUNAKA2",
+    "id": 600425,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.71715321,
+    "lon": 0.01493905,
+    "name": "KPONJUNCTION",
+    "id": 600454,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7657864,
+    "lon": -0.0005799,
+    "name": "MATAHEKOGA",
+    "id": 600466,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.5471225,
+    "lon": 0.1699842,
+    "name": "BOSO",
+    "id": 600648,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.9462568,
+    "lon": -0.2101484,
+    "name": "ADAWSO",
+    "id": 601296,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.11628,
+    "lon": -0.3462933,
+    "name": "AKWADUMER",
+    "id": 601281,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.1343016,
+    "lon": -0.2885185,
+    "name": "OYOKO",
+    "id": 600742,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.1611767,
+    "lon": -0.310175,
+    "name": "JUMAPO",
+    "id": 601231,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.05797753333333,
+    "lon": 0.864111066666667,
+    "name": "ABOR",
+    "id": 601180,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.13034988333333,
+    "lon": 0.7907384,
+    "name": "AKATSI2",
+    "id": 601166,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.139825,
+    "lon": 0.0082133,
+    "name": "KROBOODUMSI",
+    "id": 600690,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.0034133,
+    "lon": -0.07989,
+    "name": "AWUKUGUA",
+    "id": 601229,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.0390069,
+    "lon": -0.0794084,
+    "name": "APIRADE",
+    "id": 601230,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.0176462,
+    "lon": 0.66224854,
+    "name": "DABALA",
+    "id": 601220,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "SOWUTUOM2",
+    "id": 600832,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.70219166666667,
+    "lon": -0.309291666666667,
+    "name": "AMASAMAN2",
+    "id": 600892,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6590254,
+    "lon": -0.2182419,
+    "name": "DOMEPILLA2",
+    "id": 600931,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6889054,
+    "lon": -0.0216612,
+    "name": "ASHAINDUSTRY",
+    "id": 601024,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.72215093,
+    "lon": 0.03361458,
+    "name": "TEMACOMM25",
+    "id": 601032,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.177885,
+    "lon": -0.4732967,
+    "name": "ASAFOER",
+    "id": 601317,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.62715618371668,
+    "lon": 0.474265515478571,
+    "name": "HO3",
+    "id": 601324,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 8.2681792,
+    "lon": 0.5181585,
+    "name": "NKWANTAVR2",
+    "id": 601516,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 4.8922425,
+    "lon": -1.8114986,
+    "name": "APOWA2",
+    "id": 601568,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.92054833333333,
+    "lon": -0.97791,
+    "name": "AKIMODA2",
+    "id": 601591,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.77829,
+    "lon": -0.335855,
+    "name": "NSAWAM5",
+    "id": 601599,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6972036,
+    "lon": -1.8441262,
+    "name": "OPONGVALEY",
+    "id": 601659,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.3996213,
+    "lon": -2.1696617,
+    "name": "BONDAYE",
+    "id": 601666,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.03265,
+    "lon": -0.26186,
+    "name": "OKORASE",
+    "id": 601669,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.9485717,
+    "lon": -0.4156033,
+    "name": "ASUBOI",
+    "id": 601670,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.115625,
+    "lon": -0.2814683,
+    "name": "ASOKORE2",
+    "id": 601864,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.820655,
+    "lon": -0.8149383,
+    "name": "APROKUMASI",
+    "id": 601883,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.56729299513212,
+    "lon": 0.405617918177376,
+    "name": "SOKODE",
+    "id": 601889,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.288597,
+    "lon": 0.5866847,
+    "name": "NEWAYOMA",
+    "id": 601907,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.603795,
+    "lon": 0.2446862,
+    "name": "TSATE",
+    "id": 601928,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.2344009,
+    "lon": -0.3979901,
+    "name": "OLDTAFOER",
+    "id": 601962,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "BEGORO4",
+    "id": 601963,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.382345,
+    "lon": -0.5460633,
+    "name": "ANYINAM2",
+    "id": 601964,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 4.93349816,
+    "lon": -1.8004104,
+    "name": "ASSAKAE",
+    "id": 601975,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.6194807,
+    "lon": 0.474355,
+    "name": "HOCKROAD",
+    "id": 601982,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.6117383,
+    "lon": 0.4569881,
+    "name": "HOKABAKABA",
+    "id": 601986,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.8144817,
+    "lon": -0.3439483,
+    "name": "NSAGYAKROM",
+    "id": 602041,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.6245833,
+    "lon": 0.4678739,
+    "name": "HOFOREST2",
+    "id": 602046,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.537596,
+    "lon": 0.2480547,
+    "name": "PEKIAWUDOME",
+    "id": 602050,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.14367816666667,
+    "lon": 0.807972616666667,
+    "name": "AKATSI3",
+    "id": 602128,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "EMEFESTATEMATEHEKO",
+    "id": 602137,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6273,
+    "lon": -0.0227591,
+    "name": "EMEFESTATE",
+    "id": 602154,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.0100135,
+    "lon": -2.0862793,
+    "name": "ESSAMAN",
+    "id": 602166,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.08693,
+    "lon": 1.13113166666667,
+    "name": "DENU2(REP)",
+    "id": 602288,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.3761071,
+    "lon": 0.6084705,
+    "name": "KUTE",
+    "id": 602294,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.4428544,
+    "lon": -2.1344542,
+    "name": "PRESTEA4",
+    "id": 602392,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.13017978333333,
+    "lon": 0.802617366666667,
+    "name": "AKATSI4",
+    "id": 602394,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 4.98499748,
+    "lon": -1.63931123,
+    "name": "ABOADZE2",
+    "id": 602437,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.0267327,
+    "lon": -2.0849839,
+    "name": "KEDADWEN",
+    "id": 602447,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.1829202,
+    "lon": 0.949404783333333,
+    "name": "KPELIKOPE2",
+    "id": 602469,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 8.0713467,
+    "lon": 0.1826346,
+    "name": "DAMBAI2",
+    "id": 602553,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.00264541666667,
+    "lon": 0.85967605,
+    "name": "TSIAME",
+    "id": 602558,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 4.8009781,
+    "lon": -1.950171,
+    "name": "DIXCOVE",
+    "id": 602566,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "PILLA2KBOAT",
+    "id": 602598,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.3271989,
+    "lon": -1.9814762,
+    "name": "TARKWABUDU",
+    "id": 602624,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.65460717141503,
+    "lon": -0.276156381659212,
+    "name": "OFANKORNEW",
+    "id": 602705,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5804261,
+    "lon": -0.4475526,
+    "name": "KASOAOFANKOR",
+    "id": 602749,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.70056802917606,
+    "lon": -0.297434627535806,
+    "name": "AMASAMANHOSPITAL",
+    "id": 602951,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.9231745,
+    "lon": -0.1307901,
+    "name": "AKWAPIMMAMPONG",
+    "id": 603011,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.67051963021968,
+    "lon": -0.324072998391921,
+    "name": "NSAKINA2",
+    "id": 603190,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7894303,
+    "lon": 0.020513,
+    "name": "AFIENYADAWENYARD",
+    "id": 603690,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.60953742188785,
+    "lon": -0.0696197942339456,
+    "name": "NUNGUA3",
+    "id": 603699,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.60333343728624,
+    "lon": -0.075378332247152,
+    "name": "NUNGUA4",
+    "id": 603702,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6405116,
+    "lon": -0.1003998,
+    "name": "SPINTEXOKPOIGONO",
+    "id": 604396,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7538121,
+    "lon": 0.0030959,
+    "name": "ASHAIMANMIDDLEEAST",
+    "id": 604407,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.33174215,
+    "lon": 0.87899455,
+    "name": "AVAFIADENYIGBA",
+    "id": 604418,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.1497689,
+    "lon": 0.0163981,
+    "name": "ODUMASELKROBO",
+    "id": 604557,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "ANAJINAMIBIA",
+    "id": 604705,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.2011783,
+    "lon": -0.414115,
+    "name": "AKYEMMAASE",
+    "id": 604784,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5526467,
+    "lon": -0.4142867,
+    "name": "AMAMFROMTOPTOWN",
+    "id": 612717,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6159059,
+    "lon": -0.2989342,
+    "name": "ABLEKUMANIC",
+    "id": 612806,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 4.88551554,
+    "lon": -1.75942337,
+    "name": "TAKORADIRELO",
+    "id": 612830,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.552255,
+    "lon": -0.4287283,
+    "name": "AMANFROM3",
+    "id": 612898,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6281272,
+    "lon": -0.26454,
+    "name": "SOWUTUOMTABORA",
+    "id": 612945,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 8.0416753,
+    "lon": 0.2002916,
+    "name": "DAMBAIREGIONALCC",
+    "id": 613138,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.2494859,
+    "lon": -2.0011754,
+    "name": "AKYIAMPIM",
+    "id": 613166,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7895735,
+    "lon": -0.007751,
+    "name": "NEWJERUSALEM",
+    "id": 613183,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.67497643084674,
+    "lon": -0.328320847489833,
+    "name": "NSAKINA",
+    "id": 613208,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 8.2438296,
+    "lon": 0.5232656,
+    "name": "NKWANTA",
+    "id": 613235,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6842595260338,
+    "lon": -0.327674619394988,
+    "name": "OBEYEYIEFIRSTLIGHT",
+    "id": 613276,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.1359423,
+    "lon": 0.895474866666667,
+    "name": "OHAWU",
+    "id": 613296,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "NEWSUBRI",
+    "id": 602199,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "GAG2",
+    "id": 600651,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "OFANKORODUMPONG",
+    "id": 602898,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "KASOAROCKCITY",
+    "id": 613066,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "ITUMA2",
+    "id": 601529,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "TAKORADI6",
+    "id": 601534,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "AKIMODA5",
+    "id": 602043,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "DAMBAI",
+    "id": 600695,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "ASAMANKESEHOSPITALBTF",
+    "id": 603126,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "NKWANTAVR3",
+    "id": 602471,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "AMEDZOPE",
+    "id": 600717,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "HONUWE",
+    "id": 604276,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "BEPOASE",
+    "id": 602834,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "KOFORIDUA12",
+    "id": 257,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "KEDZI",
+    "id": 601611,
+    "trackerIMEI": null,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.8706533,
+    "lon": -2.002815,
+    "name": "WASADADISO",
+    "id": 601561,
+    "trackerIMEI": 862311065532457,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.513095,
+    "lon": -1.8630734,
+    "name": "DAMINE",
+    "id": 601200,
+    "trackerIMEI": 862311065540047,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.2905557,
+    "lon": -1.9959965,
+    "name": "TARKWA2",
+    "id": 600599,
+    "trackerIMEI": 862311065558429,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.284874,
+    "lon": -2.7731864,
+    "name": "ELUBO",
+    "id": 600565,
+    "trackerIMEI": 862311065572818,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.68749166666667,
+    "lon": -0.243818333333333,
+    "name": "KWABENYA2",
+    "id": 600139,
+    "trackerIMEI": 862311065563726,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 4.92807666666667,
+    "lon": -2.32431333333333,
+    "name": "ESSIAMA",
+    "id": 600604,
+    "trackerIMEI": 862311065532424,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.08903666666667,
+    "lon": -1.12724,
+    "name": "AYERIBI",
+    "id": 601155,
+    "trackerIMEI": 862311065504928,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.3481429,
+    "lon": -0.4832758,
+    "name": "OSINO",
+    "id": 600633,
+    "trackerIMEI": 862311066060557,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.7322879,
+    "lon": 0.5109134,
+    "name": "DODIPAPASE",
+    "id": 600731,
+    "trackerIMEI": 862311065506246,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.5137931,
+    "lon": 0.372347,
+    "name": "WORAWORA",
+    "id": 601182,
+    "trackerIMEI": 862311065547547,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.40947519,
+    "lon": 0.47194769,
+    "name": "JASIKAN",
+    "id": 600564,
+    "trackerIMEI": 862311065545046,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.4517127,
+    "lon": 0.3407184,
+    "name": "ABOTOASE",
+    "id": 601187,
+    "trackerIMEI": 862311065528190,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.5406356,
+    "lon": -0.7624934,
+    "name": "NKAWKAW",
+    "id": 600497,
+    "trackerIMEI": 862311066088202,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.1461015,
+    "lon": 0.4653027,
+    "name": "HOHOE2",
+    "id": 601138,
+    "trackerIMEI": 862311066069665,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.1824313,
+    "lon": 0.6036907,
+    "name": "LIKPEMATE",
+    "id": 600734,
+    "trackerIMEI": 862311065518951,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.1606746,
+    "lon": -0.5558971,
+    "name": "KIBI2",
+    "id": 600709,
+    "trackerIMEI": 862311066064583,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.99172748252749,
+    "lon": 0.290756151080132,
+    "name": "KPANDO",
+    "id": 600562,
+    "trackerIMEI": 862311066098912,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7243044,
+    "lon": -0.011009,
+    "name": "KAKASUNAKA1",
+    "id": 600398,
+    "trackerIMEI": 862311065502658,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7209171,
+    "lon": 0.0494893,
+    "name": "ASHAYMAN5",
+    "id": 600409,
+    "trackerIMEI": 862311065503268,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.720526,
+    "lon": 0.0486822,
+    "name": "AFARIWASTN",
+    "id": 600442,
+    "trackerIMEI": 862311065552414,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.6095521,
+    "lon": 0.4439128,
+    "name": "HO",
+    "id": 600628,
+    "trackerIMEI": 862311065545954,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.65718232223589,
+    "lon": -0.0749395234100364,
+    "name": "TEMCOM20",
+    "id": 600445,
+    "trackerIMEI": 862311065501312,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.686902,
+    "lon": 0.3316655,
+    "name": "KPEVE",
+    "id": 601219,
+    "trackerIMEI": 862311066098268,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.7579489,
+    "lon": 0.3602772,
+    "name": "HAVEETOE",
+    "id": 601164,
+    "trackerIMEI": 862311066069475,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.8177483,
+    "lon": -0.3491482,
+    "name": "NSAWAM2",
+    "id": 600588,
+    "trackerIMEI": 862311066085356,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.8052392,
+    "lon": 0.0008727,
+    "name": "AFIENYA",
+    "id": 600468,
+    "trackerIMEI": 862311065549998,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.5546836,
+    "lon": 0.1765583,
+    "name": "BOSO2",
+    "id": 601287,
+    "trackerIMEI": 862311066087550,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.5328523,
+    "lon": 0.2262043,
+    "name": "PEKI",
+    "id": 600559,
+    "trackerIMEI": 862311065536821,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.0936767,
+    "lon": -0.3812983,
+    "name": "NANKESE",
+    "id": 601301,
+    "trackerIMEI": 862311065529537,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.89701166666667,
+    "lon": 0.987015,
+    "name": "KETA",
+    "id": 600631,
+    "trackerIMEI": 862311066072693,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.0937633,
+    "lon": 1.14497,
+    "name": "DENU",
+    "id": 601159,
+    "trackerIMEI": 862311064220112,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6613904,
+    "lon": -0.0934165,
+    "name": "NUNGUAFAM2",
+    "id": 601026,
+    "trackerIMEI": 862311065509596,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.69992166666667,
+    "lon": -0.252003333333333,
+    "name": "KWABENYA4",
+    "id": 600885,
+    "trackerIMEI": 862311065537670,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.0539933,
+    "lon": 0.0238783,
+    "name": "AMANKWAKROM",
+    "id": 601412,
+    "trackerIMEI": 862311065536771,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.4298704,
+    "lon": 0.4272868,
+    "name": "JASIKAN2",
+    "id": 601512,
+    "trackerIMEI": 862311066102151,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.178815,
+    "lon": -0.546545,
+    "name": "KIBI3",
+    "id": 601587,
+    "trackerIMEI": 862311066059336,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.36709,
+    "lon": -0.36521,
+    "name": "BEGORO",
+    "id": 601592,
+    "trackerIMEI": 862311065527648,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.9045833,
+    "lon": -0.384422,
+    "name": "TCHERMANTE",
+    "id": 601601,
+    "trackerIMEI": 862311065491951,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 4.79689333333333,
+    "lon": -2.13412666666667,
+    "name": "PRINCETOWN",
+    "id": 601655,
+    "trackerIMEI": 862311066099134,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.2924826,
+    "lon": -1.0517839,
+    "name": "ODANKWANTA",
+    "id": 601682,
+    "trackerIMEI": 862311066086768,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.93309,
+    "lon": -0.97956,
+    "name": "ODA3",
+    "id": 601850,
+    "trackerIMEI": 862311065508515,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.1482096,
+    "lon": 0.0208456,
+    "name": "AGOMANYA2",
+    "id": 601852,
+    "trackerIMEI": 862311065548552,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.8646591,
+    "lon": -0.6618006,
+    "name": "ASAMANKESE4",
+    "id": 601858,
+    "trackerIMEI": 862311064219940,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.59347008675485,
+    "lon": 0.463677429978556,
+    "name": "HO7",
+    "id": 601888,
+    "trackerIMEI": 862311065502609,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.98326166666667,
+    "lon": 1.02951333333333,
+    "name": "AGAVEDZI",
+    "id": 601912,
+    "trackerIMEI": 862311065533141,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7558383,
+    "lon": -0.2329333,
+    "name": "BREKESU",
+    "id": 601924,
+    "trackerIMEI": 862311065577023,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.454049,
+    "lon": 0.3400232,
+    "name": "TEPAAMANYA",
+    "id": 601937,
+    "trackerIMEI": 862311065532515,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.092925,
+    "lon": -0.26773,
+    "name": "KDUAGARDEN",
+    "id": 601961,
+    "trackerIMEI": 862311065502419,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.5936567,
+    "lon": -0.737725,
+    "name": "MPRAESO",
+    "id": 601966,
+    "trackerIMEI": 862311066092501,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.6176632,
+    "lon": 0.4618372,
+    "name": "HOFOREST",
+    "id": 601981,
+    "trackerIMEI": 862311065492389,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.6030227505105,
+    "lon": 0.488144289485999,
+    "name": "HOAWATDOME",
+    "id": 601984,
+    "trackerIMEI": 862311065506584,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.06829833333333,
+    "lon": -2.19217333333333,
+    "name": "AKANGO",
+    "id": 602000,
+    "trackerIMEI": 862311065568980,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.1962325,
+    "lon": -1.9320912,
+    "name": "ESUASO",
+    "id": 602030,
+    "trackerIMEI": 862311065519819,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.92618666666667,
+    "lon": -0.995233333333333,
+    "name": "AKIMODA6",
+    "id": 602044,
+    "trackerIMEI": 862311066086818,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7612879,
+    "lon": -0.2191291,
+    "name": "ASHESHIUNI",
+    "id": 602255,
+    "trackerIMEI": 862311065558809,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.8207133,
+    "lon": -0.3995149,
+    "name": "AHWEREASE",
+    "id": 602300,
+    "trackerIMEI": 862311066073790,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 4.87480166666667,
+    "lon": -2.20446833333333,
+    "name": "AXIM3",
+    "id": 602442,
+    "trackerIMEI": 862311065556142,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.8037363,
+    "lon": -2.0734878,
+    "name": "AKPNG3",
+    "id": 602560,
+    "trackerIMEI": 862311065512509,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.04896166666667,
+    "lon": -2.37833333333333,
+    "name": "TANDAN",
+    "id": 602581,
+    "trackerIMEI": 862311065552596,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.649291,
+    "lon": 0.5194799,
+    "name": "POASECEMENT",
+    "id": 602613,
+    "trackerIMEI": 862311065541102,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.04683833333333,
+    "lon": -1.08979666666667,
+    "name": "KWAMEDONKOR",
+    "id": 602719,
+    "trackerIMEI": 862311065519934,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.60115936458819,
+    "lon": 0.510928058120868,
+    "name": "HOESTATE",
+    "id": 602733,
+    "trackerIMEI": 862311066098565,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.808575,
+    "lon": -0.4291333,
+    "name": "KWASITENTEN",
+    "id": 602882,
+    "trackerIMEI": 862311064208315,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.69226305359318,
+    "lon": -0.312417288287246,
+    "name": "ABEASE",
+    "id": 603521,
+    "trackerIMEI": 862311065518001,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.0373029,
+    "lon": -2.4640523,
+    "name": "AIYINASE",
+    "id": 603575,
+    "trackerIMEI": 862311066059997,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.5566152,
+    "lon": -0.7778171,
+    "name": "NKAWKAW1",
+    "id": 604246,
+    "trackerIMEI": 862311065507012,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 7.3155111,
+    "lon": 0.5097747,
+    "name": "TETEMAN",
+    "id": 604492,
+    "trackerIMEI": 862311065492538,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7977533,
+    "lon": -0.4824433,
+    "name": "ADEISO",
+    "id": 604499,
+    "trackerIMEI": 862311065504654,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6165888,
+    "lon": -0.1944707,
+    "name": "DZORWULU",
+    "id": 604603,
+    "trackerIMEI": 862311064201039,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.38044282760955,
+    "lon": 0.258000628436596,
+    "name": "TEMAJASIKANRD",
+    "id": 604649,
+    "trackerIMEI": 862311066103076,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.776157,
+    "lon": -2.0847024,
+    "name": "WASSAFARMERS",
+    "id": 613165,
+    "trackerIMEI": 862311065515544,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.6652327,
+    "lon": 0.4727472,
+    "name": "TAVIEFE",
+    "id": 613168,
+    "trackerIMEI": 862311065493544,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.8623391026631,
+    "lon": 0.397761538624763,
+    "name": "TAFIMADOR",
+    "id": 613245,
+    "trackerIMEI": 862311066071349,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.13855833333333,
+    "lon": -2.19407833333333,
+    "name": "GWIRAESHIEM",
+    "id": 613247,
+    "trackerIMEI": 862311065533562,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.02190333333333,
+    "lon": -2.17124,
+    "name": "GWIRAENYINASE",
+    "id": 613248,
+    "trackerIMEI": 862311065542233,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.8108201,
+    "lon": -0.333875,
+    "name": "NSAWAM3RELO",
+    "id": 613472,
+    "trackerIMEI": 862311065507079,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "HALFASSINI",
+    "id": 600557,
+    "trackerIMEI": 862311066085182,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "SANZULE",
+    "id": 601211,
+    "trackerIMEI": 862311066082262,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "KADE2",
+    "id": 601589,
+    "trackerIMEI": 862311065527481,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "AKIMWENCHI",
+    "id": 601302,
+    "trackerIMEI": 862311065504175,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "ZIOPE",
+    "id": 600694,
+    "trackerIMEI": 862311065567776,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "DZINDZINSO",
+    "id": 600730,
+    "trackerIMEI": 862311066100932,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "HOHOESANTROFI",
+    "id": 603092,
+    "trackerIMEI": 862311066101427,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "ABUTIA",
+    "id": 601140,
+    "trackerIMEI": 862311065520155,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "ANDONO1",
+    "id": 602629,
+    "trackerIMEI": 862311064202557,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "ASIKUMA",
+    "id": 600581,
+    "trackerIMEI": 862311066072347,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "KITASI",
+    "id": 604268,
+    "trackerIMEI": 862311065505446,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5614097,
+    "lon": -0.1806733,
+    "name": "OSUOFFICE",
+    "id": 600018,
+    "trackerIMEI": 862311065552448,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.567075,
+    "lon": -0.295883333333333,
+    "name": "MCARTHY1",
+    "id": 600069,
+    "trackerIMEI": 862311065526483,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.575545,
+    "lon": -0.282206666666667,
+    "name": "MALLAMJUNC.",
+    "id": 600085,
+    "trackerIMEI": 862311065500744,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.61613333333333,
+    "lon": -0.250241666666667,
+    "name": "NIIBOI",
+    "id": 600087,
+    "trackerIMEI": 862311064224452,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.64056833333333,
+    "lon": -0.226918333333333,
+    "name": "PARAKU",
+    "id": 600089,
+    "trackerIMEI": 862311065532358,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5377967,
+    "lon": -0.355815,
+    "name": "BORTIANOR",
+    "id": 600114,
+    "trackerIMEI": 862311065542688,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6842251,
+    "lon": -0.1389748,
+    "name": "ASHLYBOTWE",
+    "id": 600126,
+    "trackerIMEI": 862311066107358,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.68017333333333,
+    "lon": -0.255666666666667,
+    "name": "BURKINA",
+    "id": 600132,
+    "trackerIMEI": 862311064202599,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6208173,
+    "lon": -0.1852841,
+    "name": "ACHIMOTA1",
+    "id": 600134,
+    "trackerIMEI": 862311065487413,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6334792,
+    "lon": -0.2206524,
+    "name": "ACHIMOTA2",
+    "id": 600135,
+    "trackerIMEI": 862311065543025,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.64338333333333,
+    "lon": -0.265035,
+    "name": "OFANKOR2",
+    "id": 600141,
+    "trackerIMEI": 862311065552356,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5662621,
+    "lon": -0.1835136,
+    "name": "OSULEBANES",
+    "id": 600153,
+    "trackerIMEI": 862311065526806,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5669883,
+    "lon": -0.1552317,
+    "name": "LABADI2",
+    "id": 600154,
+    "trackerIMEI": 862311065572651,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.67973833333333,
+    "lon": -0.197165,
+    "name": "HAATSO",
+    "id": 600177,
+    "trackerIMEI": 862311065537498,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6253283,
+    "lon": -0.0192617,
+    "name": "TEMASSNIT",
+    "id": 600375,
+    "trackerIMEI": 862311065503045,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.60728772667647,
+    "lon": -0.0765943371383123,
+    "name": "NUNGUA2",
+    "id": 600392,
+    "trackerIMEI": 862311065497941,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7085828,
+    "lon": -0.0466966,
+    "name": "ASHLEBANON2",
+    "id": 600394,
+    "trackerIMEI": 862311066069640,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.63712374431979,
+    "lon": -0.0901423105118719,
+    "name": "BATSONA2",
+    "id": 600419,
+    "trackerIMEI": 862311065532036,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6323544,
+    "lon": -0.0746182,
+    "name": "LASHIBI2",
+    "id": 600432,
+    "trackerIMEI": 862311065541284,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.73888,
+    "lon": 0.011345,
+    "name": "SAKIMAN",
+    "id": 600451,
+    "trackerIMEI": 862311065547208,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.07255333333333,
+    "lon": 1.03446333333333,
+    "name": "AGBOZOME",
+    "id": 600629,
+    "trackerIMEI": 862311065483982,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.23277973333333,
+    "lon": 0.999967666666667,
+    "name": "DODZE",
+    "id": 600630,
+    "trackerIMEI": 862311065569723,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.12100928333333,
+    "lon": 0.80907345,
+    "name": "AKATSI",
+    "id": 600632,
+    "trackerIMEI": 862311065479212,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.0019291,
+    "lon": 0.5980138,
+    "name": "SOGAKOPE",
+    "id": 600637,
+    "trackerIMEI": 862311065567651,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.134185,
+    "lon": 1.18248166666667,
+    "name": "AFLAO",
+    "id": 600638,
+    "trackerIMEI": 862311065514844,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.775785,
+    "lon": 0.8259867,
+    "name": "ATORKOR",
+    "id": 601152,
+    "trackerIMEI": 862311065508424,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.0988121,
+    "lon": 0.1128294,
+    "name": "AKUSE",
+    "id": 601041,
+    "trackerIMEI": 862311065533554,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.64923333333333,
+    "lon": -0.229336666666667,
+    "name": "PILA2PARAKU",
+    "id": 600934,
+    "trackerIMEI": 862311065542555,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6111783,
+    "lon": -0.2493733,
+    "name": "NIIBOI2",
+    "id": 600902,
+    "trackerIMEI": 862311065505099,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.65188166666667,
+    "lon": -0.125218333333333,
+    "name": "AGYIRIGANOR",
+    "id": 600836,
+    "trackerIMEI": 862311065542472,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.62571302430639,
+    "lon": -0.0892507879377892,
+    "name": "BATSONA3",
+    "id": 601005,
+    "trackerIMEI": 862311065568493,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.66342833333333,
+    "lon": -0.1618,
+    "name": "MADINA6",
+    "id": 600849,
+    "trackerIMEI": 862311065568154,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5760033,
+    "lon": -0.1791633,
+    "name": "CANTONMENTS4",
+    "id": 600858,
+    "trackerIMEI": 862311065546226,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5704082,
+    "lon": -0.1772435,
+    "name": "LABONE2",
+    "id": 600868,
+    "trackerIMEI": 862311065519843,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.618565,
+    "lon": -0.230196666666667,
+    "name": "ACHIMOTASTN",
+    "id": 600875,
+    "trackerIMEI": 862311065556365,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "TAIFA",
+    "id": 600876,
+    "trackerIMEI": 862311065531632,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6627198895397,
+    "lon": -0.297531387596982,
+    "name": "OFANKOR4",
+    "id": 600882,
+    "trackerIMEI": 862311064209818,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.697285,
+    "lon": -0.231086666666667,
+    "name": "ASHONGMAN3",
+    "id": 600886,
+    "trackerIMEI": 862311065568550,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6505571,
+    "lon": -0.1393039,
+    "name": "AGYIRIGANO3",
+    "id": 601020,
+    "trackerIMEI": 862311065509257,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5681023,
+    "lon": -0.2410159,
+    "name": "NBORTIANOR",
+    "id": 600926,
+    "trackerIMEI": 862311065504779,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.52224,
+    "lon": -0.34829,
+    "name": "NBORTIANO2",
+    "id": 600928,
+    "trackerIMEI": 862311065565770,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.58722833333333,
+    "lon": -0.313663333333333,
+    "name": "GBAWE5",
+    "id": 600929,
+    "trackerIMEI": 862311065572636,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.73570347601445,
+    "lon": -0.31196837359165,
+    "name": "KUNTUNSE",
+    "id": 601235,
+    "trackerIMEI": 862311065512095,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.76084666080456,
+    "lon": -0.319814712018768,
+    "name": "MEDIE",
+    "id": 601176,
+    "trackerIMEI": 862311065499657,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.080665,
+    "lon": 1.05098166666667,
+    "name": "AGBOZUME2",
+    "id": 601323,
+    "trackerIMEI": 862311064195769,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5931927,
+    "lon": -0.2986622,
+    "name": "ANYALASTOP",
+    "id": 601409,
+    "trackerIMEI": 862311065556233,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.2234403,
+    "lon": 1.03430293333333,
+    "name": "PENYI",
+    "id": 601518,
+    "trackerIMEI": 862311065500546,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7657788,
+    "lon": -0.1399633,
+    "name": "AMRAHA",
+    "id": 601575,
+    "trackerIMEI": 862311065498022,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.0691913,
+    "lon": -0.2399555,
+    "name": "KOFRIDUA8",
+    "id": 601585,
+    "trackerIMEI": 862311065524462,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.10679166666667,
+    "lon": 1.155955,
+    "name": "AVOEME2",
+    "id": 601637,
+    "trackerIMEI": 862311065520114,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.0808161,
+    "lon": -0.2802029,
+    "name": "KOFORIDUA10",
+    "id": 601668,
+    "trackerIMEI": 862311065495226,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.1095167,
+    "lon": -0.016255,
+    "name": "SOMANYA3",
+    "id": 601851,
+    "trackerIMEI": 862311066058270,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.1279,
+    "lon": -0.015055,
+    "name": "SOMANYA4",
+    "id": 601862,
+    "trackerIMEI": 862311065522508,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7789546,
+    "lon": 0.7351084,
+    "name": "AGBLEDOME",
+    "id": 601891,
+    "trackerIMEI": 862311066063213,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.0876196,
+    "lon": -0.2595136,
+    "name": "KOFORIDUA13",
+    "id": 602039,
+    "trackerIMEI": 862311065504647,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.09186666666667,
+    "lon": 1.07633833333333,
+    "name": "NOGOKPO",
+    "id": 602048,
+    "trackerIMEI": 862311065530428,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.0278933,
+    "lon": 0.987325,
+    "name": "AFIADYIGBA2",
+    "id": 602049,
+    "trackerIMEI": 862311065569558,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.67581333333333,
+    "lon": -0.207116666666667,
+    "name": "HAATSO2",
+    "id": 602113,
+    "trackerIMEI": 862311064195959,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.8197117,
+    "lon": -0.2009867,
+    "name": "ABURI4",
+    "id": 602302,
+    "trackerIMEI": 862311065484071,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5634557,
+    "lon": -0.1583409,
+    "name": "LABADISS",
+    "id": 602315,
+    "trackerIMEI": 862311065506311,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.70126394478647,
+    "lon": -0.258274518214363,
+    "name": "KWABENYA5",
+    "id": 602381,
+    "trackerIMEI": 862311065576488,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6169856,
+    "lon": -0.2236883,
+    "name": "ACHIMOTA5",
+    "id": 602388,
+    "trackerIMEI": 862311065540930,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6547086,
+    "lon": -0.1303108,
+    "name": "AGYRGNORSS",
+    "id": 602417,
+    "trackerIMEI": 862311065552331,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.1975832,
+    "lon": -0.3639883,
+    "name": "KUKURNTML2",
+    "id": 602439,
+    "trackerIMEI": 862311065501387,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.0435193,
+    "lon": -0.2597346,
+    "name": "OKRASE",
+    "id": 602536,
+    "trackerIMEI": 862311065485656,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.24129363333333,
+    "lon": 1.00139656666667,
+    "name": "DODZE2",
+    "id": 602551,
+    "trackerIMEI": 862311065491787,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.68682166666667,
+    "lon": -0.171071666666667,
+    "name": "RIZJUNCTION2",
+    "id": 602631,
+    "trackerIMEI": 862311066078682,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7864145,
+    "lon": -0.0173173,
+    "name": "MATAHEKONEWJERUSALEM",
+    "id": 602727,
+    "trackerIMEI": 862311065514539,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.56843666666667,
+    "lon": -0.308961666666667,
+    "name": "GBAWETOPBASE",
+    "id": 602730,
+    "trackerIMEI": 862311065519454,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.58391,
+    "lon": -0.4495499,
+    "name": "KASOA5",
+    "id": 603491,
+    "trackerIMEI": 862311065490524,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.56110166666667,
+    "lon": -0.29539,
+    "name": "MCCARTHYROYALPALM",
+    "id": 603709,
+    "trackerIMEI": 862311065504522,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7457254,
+    "lon": -0.1766628,
+    "name": "OYARIFA",
+    "id": 604270,
+    "trackerIMEI": 862311065517755,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.00275588,
+    "lon": 0.60791097,
+    "name": "SOGAKOFE",
+    "id": 604297,
+    "trackerIMEI": 862311065497628,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5267883,
+    "lon": -0.3498583,
+    "name": "MENDSKROM",
+    "id": 604325,
+    "trackerIMEI": 862311065556175,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.795086,
+    "lon": -0.1232766,
+    "name": "VALLEYVIEWUNI",
+    "id": 604574,
+    "trackerIMEI": 862311065567065,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.619145,
+    "lon": -0.2909233,
+    "name": "SOWUTUOMANTOEKU",
+    "id": 604609,
+    "trackerIMEI": 862311065486878,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.64535296175849,
+    "lon": -0.292792215791205,
+    "name": "SOWUTUOMJUNCTION",
+    "id": 604827,
+    "trackerIMEI": 862311065555995,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.6364694,
+    "lon": -0.1699132,
+    "name": "EASTLEGON",
+    "id": 604835,
+    "trackerIMEI": 862311065566844,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.0797554,
+    "lon": -0.2459934,
+    "name": "KOFIADWESO2",
+    "id": 612832,
+    "trackerIMEI": 862311064232075,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.5447369,
+    "lon": -0.3614701,
+    "name": "BROADCASTING",
+    "id": 612953,
+    "trackerIMEI": 862311065555623,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 6.0753013,
+    "lon": -0.0153151,
+    "name": "SOMANYAROYALHOTEL",
+    "id": 613125,
+    "trackerIMEI": 862311065493460,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.7929072,
+    "lon": -0.1019677,
+    "name": "OYIBIBURNA",
+    "id": 613219,
+    "trackerIMEI": 862311065553552,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.65756,
+    "lon": -0.244008333333333,
+    "name": "DOMEEVERGREEN",
+    "id": 613228,
+    "trackerIMEI": 862311065516989,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "ASHONGMANEST",
+    "id": 613258,
+    "trackerIMEI": 862311065510644,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.553183,
+    "lon": -0.1789586,
+    "name": "OSU2",
+    "id": 613301,
+    "trackerIMEI": 862311065538645,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "lat": 5.900428,
+    "lon": -0.1571734,
+    "name": "ANAKAZOSCH",
+    "id": 613313,
+    "trackerIMEI": 862311065542498,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "NSUKWAO",
+    "id": 601960,
+    "trackerIMEI": 862311065566190,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "KLIKOR",
+    "id": 601217,
+    "trackerIMEI": 862311065540336,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "LARTEH",
+    "id": 600670,
+    "trackerIMEI": 862311065529727,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "KETA4",
+    "id": 601886,
+    "trackerIMEI": 862311065532572,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "KPOTAME",
+    "id": 602399,
+    "trackerIMEI": 862311065571984,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "BATSWONA",
+    "id": 600412,
+    "trackerIMEI": 862311065487264,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "NUNGUA1",
+    "id": 600380,
+    "trackerIMEI": 862311065555607,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "LABONE",
+    "id": 600037,
+    "trackerIMEI": 862311065542001,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "SAKAMAN",
+    "id": 600909,
+    "trackerIMEI": 862311065554238,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  },
+  {
+    "name": "AWOSHIE2",
+    "id": 600978,
+    "trackerIMEI": 862311065538397,
+    "icons": [
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/Findr%20logo.png",
+      "https://raw.githubusercontent.com/KKEsty2024/GhanaSites/main/cell%20tower.jpg"
+    ]
+  }
+]
