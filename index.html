@@ -74,7 +74,7 @@
 
 <div id="controls">
     <button id="show-installed-trackers">Installed Sites with Trackers</button>
-    <button id="show-installed-only">Installed Sites Without Trackers</button>
+    <button id="show-installed-only">Potential Sites</button>
     <button id="show-all">All Sites</button>
 </div>
 
@@ -174,8 +174,8 @@ const hoverPopup = new mapboxgl.Popup({ closeButton: false, closeOnClick: false 
             });
 
             // Log final counts for debugging
-            console.log("Total Unique Sites:", totalUniqueSites);
-            console.log("Sites With Trackers:", countWithTrackers);
+            console.log("Total Sites:", totalUniqueSites);
+            console.log("Installed Tracked Sites:", countWithTrackers);
             console.log("Sites Without Trackers:", countWithoutTrackers);
         })
         .catch(error => console.error('Error loading JSON data:', error));
